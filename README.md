@@ -126,4 +126,4 @@ Proyek ini dirilis di bawah lisensi [MIT](LICENSE) — bebas digunakan untuk kep
 
 ---
 
-<p align="center">Dibuat sebagai bagian dari Tugas Akhir/Skripsi 🎓</p>
+<p align="center">Dibuat sebagai bagian dari Tugas Akhir/Skripsi Strata 1 (S1) 🎓</p>
